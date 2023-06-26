@@ -4,7 +4,7 @@
 - Number of questions: - 125
 - Exam duration: - 4 hours
 - Passing criteria: - 70%-80% depending upon the paper
-- Difficulty: - Beginer/Intermidiate
+- Difficulty: - Beginner/Intermidiate
 
 ## CEH Exam Pattern
 
