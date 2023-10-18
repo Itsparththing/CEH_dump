@@ -6,7 +6,7 @@
 - Passing criteria: - 70%-80% depending upon the paper
 - Difficulty: - Beginner/Intermidiate
 
-## CEH Exam Pattern
+## CEH Exam Pattern (Expected)
 
 |  Domains  | Topics  | No. of questions |
 | :--------: | :------: | :--------:  |
