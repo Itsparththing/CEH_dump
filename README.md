@@ -10,7 +10,7 @@
 
 |  Domains  | Topics  | No. of questions |
 | :--------: | :------: | :--------:  |
-| Domain-1 | Information Security & Ethical Hacking Overview	  |        8        |
+| Domain-1 | Information Security and Ethical Hacking Overview	  |        8        |
 | Domain-2 | Reconnaissance Techniques	  |       26        |
 | Domain-3 | System Hacking Phases and Attack Techniques	  |       21        |
 | Domain-4 | Network and Perimeter Hacking Sniffing	  |       18        |
